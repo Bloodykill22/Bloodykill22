@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bloodykill22
+- 👀 I’m interested in Game Developement
+- 🌱 I’m currently learning C# and Unity 3D
+-
+-
